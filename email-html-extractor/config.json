@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "scopes": ["https://www.googleapis.com/auth/gmail.readonly"],
+    "keyfilePath": "credentials.json"
+  },
+  "email": {
+    "messageId": "example-message-id"
+  }
+}
